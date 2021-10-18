@@ -1,0 +1,1 @@
+boeing,Lviv,Kyiv,1,2020,11,12,20,45,Covid19Vaccine
