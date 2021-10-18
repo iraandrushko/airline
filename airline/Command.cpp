@@ -58,20 +58,3 @@ void Command::ShowTheLongestByDurationCargoFlight()
 
 
 
-//void Command::WriteFlightsToFile()
-//{
-//	ofstream MyFile(fileName, std::ofstream::out | std::ofstream::trunc);
-//
-//	for (int i = 0; i < currentCapacity; i++)
-//	{
-//		string flightLine = flights[i].ToCsvString();
-//		MyFile << flightLine << endl;
-//	}
-//	MyFile.close();
-//
-//	
-//}
-
-
-
-
