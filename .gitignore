@@ -35,3 +35,11 @@
 *.db-wal
 *.opendb
 *.ipch
+*.suo
+*.recipe
+*.log
+*.idb
+*.pdb
+*.lastbuildstate
+*.tlog
+*.ilk
