@@ -39,5 +39,3 @@ string Date::ToDateCsvString()
 		to_string(hour) + "," +
 		to_string(minute);
 }
-
-
